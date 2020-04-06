@@ -38,9 +38,6 @@ Point Of Sales Apps using React Native and Mysql
     <img width="250" src="https://user-images.githubusercontent.com/42709965/78537348-90f96380-7819-11ea-91bb-0c710c77703f.png">   
     <img width="250" src="https://user-images.githubusercontent.com/42709965/78537352-92c32700-7819-11ea-893a-c5a059f9630f.png">
 </div>
-![Screenshot_1585909906](https://user-images.githubusercontent.com/42709965/78537348-90f96380-7819-11ea-91bb-0c710c77703f.png)
-![Screenshot_1585909964](https://user-images.githubusercontent.com/42709965/78537352-92c32700-7819-11ea-893a-c5a059f9630f.png)
-
 
 ## Release APK
 <a href="https://bit.ly/Pos-app">
